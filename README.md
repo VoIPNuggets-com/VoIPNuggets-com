@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VoIPNuggets-com
+- 👋 Hi, I’m Akash@VoIPNuggets.com
 - 👀 I’m interested in Voip open source applications
 - 🌱 I’m currently learning Asterisk and Freeswitch
 - 💞️ I’m looking to collaborate on Kamailio, Grafana and other open source VOIP applications
